@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <div class="container" style="margin-left: 12rem">
+    <div class="container">
 
         <h3 class="mt-4">Data Surat Masuk</h3>
         <div class="d-flex">

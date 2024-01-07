@@ -1,7 +1,7 @@
 @extends('layouts.template')
 
 @section('content')
-    <div class="container" style="margin-left: 12rem">
+    <div class="container">
 
         <h3 class="mt-4">Detail Data Surat</h3>
         <div class="d-flex">

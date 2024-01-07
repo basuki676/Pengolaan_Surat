@@ -1,9 +1,7 @@
-{{--memanggil file template--}}
-@extends('layouts.template')
-
-{{--isi bagian yield--}}
+ @extends('layouts.template')
 @section('content')
-<div class="container" style="margin-left: 12rem">
+<link rel="stylesheet" href="{{ asset('css/style.css') }}">
+<div class="container">
 
 <h3 class="mt-4">Data Staff Tata Usaha</h3>
 <div class="d-flex mb-3">
